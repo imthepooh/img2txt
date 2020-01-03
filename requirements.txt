@@ -1,0 +1,4 @@
+# Function dependencies, for example:
+# package>=version
+python-telegram-bot==11.1.0
+google-cloud-vision
